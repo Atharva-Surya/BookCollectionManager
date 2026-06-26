@@ -17,11 +17,7 @@ A simple Android application developed using Kotlin and SQLite.
 - XML Layouts
 - SQLite Database
 - RecyclerView
-
-## Screenshots
-
-(Add screenshots here)
-
+- 
 ## Author
 
 Atharva Surya
